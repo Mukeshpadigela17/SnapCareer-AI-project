@@ -1,0 +1,4 @@
+Project: SnapCareer AI
+Purpose: Snapdragon AI Lab Build & Present Challenge prototype
+Primary app: Streamlit
+AI approach: local-first; optional local open-source model; Qualcomm AI Hub integration path
