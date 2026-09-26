@@ -1,0 +1,11 @@
+Software Engineer Intern
+
+We are looking for a software engineer intern to build AI-enabled applications.
+
+Requirements:
+Python, Java, SQL, REST APIs, Git, machine learning, Generative AI,
+LLMs, problem solving and communication.
+
+Responsibilities:
+Build software features, integrate AI models, write tests, debug issues,
+work with engineers and document technical solutions.

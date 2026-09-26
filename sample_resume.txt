@@ -1,0 +1,16 @@
+Mukesh
+Software Developer | AI/ML
+
+Skills:
+Python, Java, SQL, DBMS, HTML, CSS, JavaScript, React.js, REST APIs,
+Pandas, NumPy, scikit-learn, TensorFlow, Streamlit, Git, Spring Boot,
+Machine Learning, Generative AI, LLMs, Prompt Engineering
+
+Projects:
+Water Pollutants Predictor - Streamlit machine learning application.
+Helmet Detection and Number Plate Extraction - YOLO, OCR, OpenCV.
+Online Book Store - Java, Spring Boot, REST APIs and SQL.
+
+Experience:
+AI/ML Intern
+Software Development Intern
